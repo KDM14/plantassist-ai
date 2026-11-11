@@ -4,7 +4,8 @@
 
 PlantAssist AI is a Retrieval-Augmented Generation (RAG) application built for shop-floor supervisors at precision manufacturing plants. Supervisors can ask questions in natural language and get accurate, traceable answers drawn exclusively from their plant's official PDF documents — SOPs, maintenance manuals, and safety procedures.
 
-> Built as a take-home assignment for BiztelAI Technologies (Junior Software Engineer – Full Stack / AI).
+> Built as a take-home assignment for BiztelAI Technologies (Junior Software Engineer – Full Stack / AI).  
+> 📹 **Video Demo Walkthrough (Loom):** [Watch Demo (2.5 mins)](https://www.loom.com/share/055cc596510547cb8c8c5a190952f6c2)
 
 ---
 
